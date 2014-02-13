@@ -1,0 +1,33 @@
+{
+  
+  "name": "disk-server",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "",
+  "keywords": [ "disk-server" ],
+  
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://github.com/jhermsmeier"
+  },
+  
+  "main": "lib/server",
+  
+  "dependencies": {
+    "disk-manager": "latest",
+    "smb": "latest"
+  },
+  
+  "devDependencies": {},
+  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhermsmeier/node-disk-server.git"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-disk-server/issues"
+  }
+  
+}
